@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShanenMithra/FinservShanen/static/css/main.e6c13ad2.css",
+    "main.js": "/ShanenMithra/FinservShanen/static/js/main.62f87b12.js",
+    "index.html": "/ShanenMithra/FinservShanen/index.html",
+    "main.e6c13ad2.css.map": "/ShanenMithra/FinservShanen/static/css/main.e6c13ad2.css.map",
+    "main.62f87b12.js.map": "/ShanenMithra/FinservShanen/static/js/main.62f87b12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.62f87b12.js"
+  ]
+}
